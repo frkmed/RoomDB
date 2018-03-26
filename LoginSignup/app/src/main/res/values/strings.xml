@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDb</string>
+    <string name="title_activity_dialog_edit">DialogEditActivity</string>
+</resources>
